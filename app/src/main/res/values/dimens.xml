@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ui_space_length_1">1dp</dimen>
+    <dimen name="ui_space_length_2">2dp</dimen>
+    <dimen name="ui_space_length_4">4dp</dimen>
+    <dimen name="ui_space_length_10">10dp</dimen>
+    <dimen name="ui_space_length_15">15dp</dimen>
+    <dimen name="ui_space_length_20">20dp</dimen>
+    <dimen name="ui_space_length_25">25dp</dimen>
+    <dimen name="ui_space_length_30">30dp</dimen>
+    <dimen name="ui_space_length_35">35dp</dimen>
+    <dimen name="ui_space_length_40">40dp</dimen>
+    <dimen name="ui_space_length_60">60dp</dimen>
+
+
+    <dimen name="ui_font_size_14">14sp</dimen>
+    <dimen name="ui_font_size_16">16sp</dimen>
+    <dimen name="ui_font_size_18">18sp</dimen>
+    <dimen name="ui_space_length_150">150dp</dimen>
+</resources>

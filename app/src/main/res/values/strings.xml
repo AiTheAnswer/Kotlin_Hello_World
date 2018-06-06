@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kotlin_Hello_World</string>
+    <string name="sign_in">Sign In</string>
+    <string name="user_name">userName</string>
+    <string name="pwd">password</string>
+    <string name="login">Login</string>
+    <string name="forgot_pwd">忘记密码?</string>
+    <string name="user_name_is_null_or_empty">用户名为空，请输入用户名后再登录</string>
+    <string name="pwd_is_null_or_empty">密码为空，请输入密码后再登录</string>
+    <string name="no_such_function">暂无此功能</string>
+    <string name="click_event_not_processed">此点击事件没有处理</string>
+    <string name="loading">加载中...</string>
+    <string name="user_name_or_pwd_error">用户名或密码错误</string>
+    <string name="recommended">推荐</string>
+    <string name="category">分类</string>
+    <string name="ranking">榜单</string>
+    <string name="anchor">主播</string>
+</resources>
